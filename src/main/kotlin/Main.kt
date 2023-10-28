@@ -14,7 +14,7 @@ fun main(args: Array<String>) {
     среднее арифм значение возраста */
     var ArithmeticMeanOfAge: Double = 17.0 /* переменная, в которой будет храниться
     начальное значение  и после вычитания среднего арифм значения будет перезаписываться значение переменной */
-    ArithmeticMeanOfAge = +(ArithmeticMeanOfAge + x) / 2 /* вычитание арифм значения и перезаписывание значения
+    ArithmeticMeanOfAge = +(ArithmeticMeanOfAge + oldBOY) / 2 /* вычитание арифм значения и перезаписывание значения
     переменной */
     exercisesSolved = +exercisesSolved + 1; // увеличение переменной на 1
 
